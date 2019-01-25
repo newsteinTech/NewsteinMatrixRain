@@ -5,9 +5,9 @@ Download and Open index.html file to see rain effect. Enjoy it in dark room on b
 
 Code is written using OOPs concept.
 
-[![Matrix rain coding details](https://ak3.picdn.net/shutterstock/videos/809383/thumb/3.jpg)](http://refrbuddy.com:81/)
+[![Matrix rain coding details](https://ak3.picdn.net/shutterstock/videos/809383/thumb/3.jpg)](http://newstein.in:81)
 
-Code is hosted at http://refrbuddy.com:81
+Code is hosted at http://newstein.in:81
 
 ### Visit http://newstein.in/ to learn building more cool games and effects
 
