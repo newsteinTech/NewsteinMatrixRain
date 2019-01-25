@@ -5,7 +5,8 @@ Download and Open index.html file to see rain effect. Enjoy it in dark room on b
 
 Code is written using OOPs concept.
 
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/10pvltzies7nHNSs-l8aDmE1FZ6vFWv8A/view?usp=sharing)](https://www.youtube.com/watch?v=Nk-vGiD21M8&t=9s)
 
-## Visit http://newstein.in/ to learn building more cool games and effects
+### Visit http://newstein.in/ to learn building more cool games and effects
 
-## Find more about cool stuff and Newstein at https://www.youtube.com/watch?v=Nk-vGiD21M8&t=9s 
+### Find more at https://www.youtube.com/watch?v=Nk-vGiD21M8&t=9s 
