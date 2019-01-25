@@ -5,8 +5,6 @@ Download and Open index.html file to see rain effect. Enjoy it in dark room on b
 
 Code is written using OOPs concept.
 
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif)
-
 [![Matrix rain coding details](https://ak3.picdn.net/shutterstock/videos/809383/thumb/3.jpg)](https://www.youtube.com/watch?v=Nk-vGiD21M8&t=9s)
 
 ### Visit http://newstein.in/ to learn building more cool games and effects
